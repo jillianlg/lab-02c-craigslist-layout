@@ -1,0 +1,16 @@
+body, html {
+  background: white;
+  height: 100%;
+}
+
+section, main, div, header {
+  border: solid 1px black;
+}
+
+main {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  width: 870px;
+  margin: 0 auto;
+}
