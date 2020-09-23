@@ -15,6 +15,7 @@ Alchemy Foundations
    * Middle
       * Middle has 4 grandchildren; Header and Column 1, 2 & 3
           * Header
+            * Header has 7 boxes in a row
           * Middle has 3 grand children in columns;
             * Column 1
               * Column 1 has 3 great-grand children in rows;
@@ -27,6 +28,7 @@ Alchemy Foundations
                 * for sale
             * Column 3
               * jobs
+              * gigs
 
     * Right has has 3 grand children in rows;
         * Language
